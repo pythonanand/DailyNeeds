@@ -1,3 +1,6 @@
+"""
+      Usually I will have more PDF files in my Downloads path like 300 and 400 pdf files. Sometimes it will be tough to search something I need. So this program move them to appropriate folder in minute of time.
+"""
 from os import listdir
 from os.path import isfile,join
 import fnmatch
